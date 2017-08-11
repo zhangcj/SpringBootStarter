@@ -1,0 +1,3 @@
+com\example\properties\ExampleServiceProperties.class
+com\example\autocinfigure\ExampleAutoConfigure.class
+com\example\service\ExampleService.class
